@@ -33,7 +33,7 @@ Simply download to use the application.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage of currency exchange engine
+## Usage of JK Face Detection and Recognition
   <ul>
     <li>Step1: Open Home.py in any IDE's</li>
     <li>Step2: Run in Terminal streamlit run Home.py </li>
