@@ -40,7 +40,7 @@ Simply download to use the application.
     <li>Step3: Link for the same is generated in terminal for view </li>
  </ul>
 
-## Contact
+## Contributors
 Vedant Modi - [@vedant8689](https://github.com/vedant8689) <br>
 Parv Modi - [@modiparv](https://github.com/modiparv) <br>
 Saharsh Khunt - [@saharsh-08](https://github.com/saharsh-08) <br>
