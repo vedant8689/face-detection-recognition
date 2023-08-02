@@ -45,4 +45,3 @@ Vedant Modi - [@vedant8689](https://github.com/vedant8689) <br>
 Parv Modi - [@modiparv](https://github.com/modiparv) <br>
 Saharsh Khunt - [@saharsh-08](https://github.com/saharsh-08) <br>
 Sanskruti Gondaliya - [@Sangondaliya](https://github.com/Sangondaliya) <br>
-Niraj Vadher - [@NirajVadher07](https://github.com/NirajVadher07)
